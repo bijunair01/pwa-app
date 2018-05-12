@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "https://bijunair.github.io/pwa-app/index.html",
+  "index": "https://bijunair01.github.io/pwa-app/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://bijunair.github.io/pwa-app/favicon.ico",
-        "https://bijunair.github.io/pwa-app/index.html",
-        "https://bijunair.github.io/pwa-app/main.de065a1507bd396a8528.js",
-        "https://bijunair.github.io/pwa-app/polyfills.2903ad11212d7d797800.js",
-        "https://bijunair.github.io/pwa-app/runtime.6afe30102d8fe7337431.js",
-        "https://bijunair.github.io/pwa-app/styles.34c57ab7888ec1573f9c.css"
+        "https://bijunair01.github.io/pwa-app/favicon.ico",
+        "https://bijunair01.github.io/pwa-app/index.html",
+        "https://bijunair01.github.io/pwa-app/main.de065a1507bd396a8528.js",
+        "https://bijunair01.github.io/pwa-app/polyfills.2903ad11212d7d797800.js",
+        "https://bijunair01.github.io/pwa-app/runtime.6afe30102d8fe7337431.js",
+        "https://bijunair01.github.io/pwa-app/styles.34c57ab7888ec1573f9c.css"
       ],
       "patterns": []
     },
@@ -21,34 +21,34 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://bijunair.github.io/pwa-app/assets/icons/icon-128x128.png",
-        "https://bijunair.github.io/pwa-app/assets/icons/icon-144x144.png",
-        "https://bijunair.github.io/pwa-app/assets/icons/icon-152x152.png",
-        "https://bijunair.github.io/pwa-app/assets/icons/icon-192x192.png",
-        "https://bijunair.github.io/pwa-app/assets/icons/icon-384x384.png",
-        "https://bijunair.github.io/pwa-app/assets/icons/icon-512x512.png",
-        "https://bijunair.github.io/pwa-app/assets/icons/icon-72x72.png",
-        "https://bijunair.github.io/pwa-app/assets/icons/icon-96x96.png"
+        "https://bijunair01.github.io/pwa-app/assets/icons/icon-128x128.png",
+        "https://bijunair01.github.io/pwa-app/assets/icons/icon-144x144.png",
+        "https://bijunair01.github.io/pwa-app/assets/icons/icon-152x152.png",
+        "https://bijunair01.github.io/pwa-app/assets/icons/icon-192x192.png",
+        "https://bijunair01.github.io/pwa-app/assets/icons/icon-384x384.png",
+        "https://bijunair01.github.io/pwa-app/assets/icons/icon-512x512.png",
+        "https://bijunair01.github.io/pwa-app/assets/icons/icon-72x72.png",
+        "https://bijunair01.github.io/pwa-app/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://bijunair.github.io/pwa-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://bijunair.github.io/pwa-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://bijunair.github.io/pwa-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://bijunair.github.io/pwa-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://bijunair.github.io/pwa-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://bijunair.github.io/pwa-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://bijunair.github.io/pwa-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://bijunair.github.io/pwa-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://bijunair.github.io/pwa-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://bijunair.github.io/pwa-app/index.html": "3df4904234b4592a583a620d58211f71753df250",
-    "https://bijunair.github.io/pwa-app/main.de065a1507bd396a8528.js": "d878fbcbd46a45123a411665b7e123a3d0f267e6",
-    "https://bijunair.github.io/pwa-app/polyfills.2903ad11212d7d797800.js": "193f6d7b77c2bce633da2f543082303b4f32d7ed",
-    "https://bijunair.github.io/pwa-app/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "https://bijunair.github.io/pwa-app/styles.34c57ab7888ec1573f9c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://bijunair01.github.io/pwa-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://bijunair01.github.io/pwa-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://bijunair01.github.io/pwa-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://bijunair01.github.io/pwa-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://bijunair01.github.io/pwa-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://bijunair01.github.io/pwa-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://bijunair01.github.io/pwa-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://bijunair01.github.io/pwa-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://bijunair01.github.io/pwa-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://bijunair01.github.io/pwa-app/index.html": "64fcd3e3a058f86bd7b6d96fa05a302a6abb59e2",
+    "https://bijunair01.github.io/pwa-app/main.de065a1507bd396a8528.js": "d878fbcbd46a45123a411665b7e123a3d0f267e6",
+    "https://bijunair01.github.io/pwa-app/polyfills.2903ad11212d7d797800.js": "193f6d7b77c2bce633da2f543082303b4f32d7ed",
+    "https://bijunair01.github.io/pwa-app/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "https://bijunair01.github.io/pwa-app/styles.34c57ab7888ec1573f9c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
